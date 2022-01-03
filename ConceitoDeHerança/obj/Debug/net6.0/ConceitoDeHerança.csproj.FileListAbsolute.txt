@@ -1,0 +1,14 @@
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\bin\Debug\net6.0\ConceitoDeHerança.exe
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\bin\Debug\net6.0\ConceitoDeHerança.deps.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\bin\Debug\net6.0\ConceitoDeHerança.runtimeconfig.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\bin\Debug\net6.0\ConceitoDeHerança.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\bin\Debug\net6.0\ref\ConceitoDeHerança.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\bin\Debug\net6.0\ConceitoDeHerança.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.AssemblyInfoInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.AssemblyInfo.cs
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.csproj.CoreCompileInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ref\ConceitoDeHerança.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeHerança\obj\Debug\net6.0\ConceitoDeHerança.genruntimeconfig.cache

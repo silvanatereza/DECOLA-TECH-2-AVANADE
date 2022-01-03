@@ -1,0 +1,19 @@
+﻿using System;
+
+
+namespace ConceitoDeHerança
+{
+    internal class Pessoa
+    {
+ 
+        public string Nome { get; set; }
+        public int Idade { get; set; }
+
+        
+
+        public void Apresentar()
+        {
+            Console.WriteLine($" Olá ! meu nome é {Nome } é minha idade é {Idade} anos ");
+        }
+    }
+}

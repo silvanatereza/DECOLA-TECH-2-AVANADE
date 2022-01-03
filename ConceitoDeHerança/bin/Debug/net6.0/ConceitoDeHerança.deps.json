@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConceitoDeHerança/1.0.0": {
+        "runtime": {
+          "ConceitoDeHerança.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConceitoDeHerança/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

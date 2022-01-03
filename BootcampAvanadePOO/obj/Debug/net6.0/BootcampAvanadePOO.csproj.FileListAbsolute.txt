@@ -1,0 +1,15 @@
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\bin\Debug\net6.0\BootcampAvanadePOO.exe
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\bin\Debug\net6.0\BootcampAvanadePOO.deps.json
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\bin\Debug\net6.0\BootcampAvanadePOO.runtimeconfig.json
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\bin\Debug\net6.0\BootcampAvanadePOO.dll
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\bin\Debug\net6.0\ref\BootcampAvanadePOO.dll
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\bin\Debug\net6.0\BootcampAvanadePOO.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.csproj.AssemblyReference.cache
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.AssemblyInfoInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.AssemblyInfo.cs
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.csproj.CoreCompileInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.dll
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\ref\BootcampAvanadePOO.dll
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\BootcampAvanadePOO\obj\Debug\net6.0\BootcampAvanadePOO.genruntimeconfig.cache

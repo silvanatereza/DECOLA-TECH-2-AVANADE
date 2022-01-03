@@ -1,0 +1,15 @@
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\bin\Debug\net6.0\ConceitoEncapsulameto.exe
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\bin\Debug\net6.0\ConceitoEncapsulameto.deps.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\bin\Debug\net6.0\ConceitoEncapsulameto.runtimeconfig.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\bin\Debug\net6.0\ConceitoEncapsulameto.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\bin\Debug\net6.0\ref\ConceitoEncapsulameto.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\bin\Debug\net6.0\ConceitoEncapsulameto.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.csproj.AssemblyReference.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.AssemblyInfoInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.AssemblyInfo.cs
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.csproj.CoreCompileInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ref\ConceitoEncapsulameto.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoEncapsulameto\obj\Debug\net6.0\ConceitoEncapsulameto.genruntimeconfig.cache

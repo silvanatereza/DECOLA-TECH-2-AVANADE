@@ -1,0 +1,14 @@
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\bin\Debug\net6.0\ConceitosDeInterface.exe
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\bin\Debug\net6.0\ConceitosDeInterface.deps.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\bin\Debug\net6.0\ConceitosDeInterface.runtimeconfig.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\bin\Debug\net6.0\ConceitosDeInterface.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\bin\Debug\net6.0\ref\ConceitosDeInterface.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\bin\Debug\net6.0\ConceitosDeInterface.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.AssemblyInfoInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.AssemblyInfo.cs
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.csproj.CoreCompileInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ref\ConceitosDeInterface.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitosDeInterface\obj\Debug\net6.0\ConceitosDeInterface.genruntimeconfig.cache

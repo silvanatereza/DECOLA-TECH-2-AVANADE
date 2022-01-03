@@ -1,0 +1,15 @@
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\bin\Debug\net6.0\ConceitoDeClassesAbstratas.exe
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\bin\Debug\net6.0\ConceitoDeClassesAbstratas.deps.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\bin\Debug\net6.0\ConceitoDeClassesAbstratas.runtimeconfig.json
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\bin\Debug\net6.0\ConceitoDeClassesAbstratas.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\bin\Debug\net6.0\ref\ConceitoDeClassesAbstratas.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\bin\Debug\net6.0\ConceitoDeClassesAbstratas.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.csproj.AssemblyReference.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.AssemblyInfoInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.AssemblyInfo.cs
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ref\ConceitoDeClassesAbstratas.dll
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.pdb
+C:\BootcampAvanade\BootcampAvanadePOO\ConceitoDeClassesAbstratas\obj\Debug\net6.0\ConceitoDeClassesAbstratas.genruntimeconfig.cache

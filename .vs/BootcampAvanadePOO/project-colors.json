@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10e9761c-5e6f-4ed3-bd03-f9f7eeecd075": {
+      "ProjectGuid": "10e9761c-5e6f-4ed3-bd03-f9f7eeecd075",
+      "DisplayName": "BootcampAvanadePOO",
+      "ColorIndex": 0
+    },
+    "6a988651-06b3-4702-aa80-fa2172667e2a": {
+      "ProjectGuid": "6a988651-06b3-4702-aa80-fa2172667e2a",
+      "DisplayName": "ConceitoEncapsulameto",
+      "ColorIndex": 1
+    },
+    "b9f0ca10-9dea-46b4-8af8-4ebf41dedbe5": {
+      "ProjectGuid": "b9f0ca10-9dea-46b4-8af8-4ebf41dedbe5",
+      "DisplayName": "ConceitoDeHerança",
+      "ColorIndex": 2
+    },
+    "0d7b6595-4bed-40be-9785-17bd809a24a8": {
+      "ProjectGuid": "0d7b6595-4bed-40be-9785-17bd809a24a8",
+      "DisplayName": "ConceitoDePolimorfismo",
+      "ColorIndex": 3
+    },
+    "3e233bcd-0ba3-4860-a5b7-d8fdf6af8920": {
+      "ProjectGuid": "3e233bcd-0ba3-4860-a5b7-d8fdf6af8920",
+      "DisplayName": "ConceitoDeClassesAbstratas",
+      "ColorIndex": 4
+    },
+    "fdfb600e-c4d4-4877-b77f-4fcbfb56dd02": {
+      "ProjectGuid": "fdfb600e-c4d4-4877-b77f-4fcbfb56dd02",
+      "DisplayName": "ConceitosDeInterface",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
