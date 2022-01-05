@@ -1,3 +1,9 @@
 # DECOLA-TECH-2-AVANADE
-Nesse repositorio tem alguns  estudos sobre POO  visto no  Bootcamp  DIO/Avanade 
+Nesse repositório tem alguns exemplos de conceitos sobre POO  visto no Boocamp da DIO/Avanade 
+
+* Classes Abstratas
+*  Herança
+*  Polimorfismo 
+*  Encapsulamento
+*  Interface 
 
